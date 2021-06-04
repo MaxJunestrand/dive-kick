@@ -1,0 +1,1 @@
+void drawHighScore( int score );

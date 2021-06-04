@@ -1,0 +1,1 @@
+void drawWinScreen(int winner);
